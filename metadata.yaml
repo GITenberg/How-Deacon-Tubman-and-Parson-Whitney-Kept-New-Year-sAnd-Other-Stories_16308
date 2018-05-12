@@ -1,0 +1,32 @@
+_repo: How-Deacon-Tubman-and-Parson-Whitney-Kept-New-Year-sAnd-Other-Stories_16308
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16308-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murray, W. H. H. (William Henry Harrison)
+    alias: Murray, William Henry Harrison
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '6611'
+    url: http://www.gutenberg.org/2009/agents/6611
+description: ''
+gutenberg_issued: '2005-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+tableOfContents: How Deacon Tubman and Parson Whitney kept New Year's -- The old beggar's
+  dog -- The ball -- Who was he?
+title: 'How Deacon Tubman and Parson Whitney Kept New Year''s
+
+  And Other Stories'
+url: http://www.gutenberg.org/ebooks/16308
